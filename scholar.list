@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX,scholar.google.com
 DOMAIN-KEYWORD,annas-archive
 DOMAIN-SUFFIX,arxiv.org
-DOMAIN-KEYWORD,sci-hub
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,aip.org
@@ -42,6 +41,7 @@ DOMAIN-SUFFIX,oxfordmusiconline.com
 DOMAIN-SUFFIX,pnas.org
 DOMAIN-SUFFIX,proquest.com
 DOMAIN-SUFFIX,rsc.org
+DOMAIN-KEYWORD,sci-hub
 DOMAIN-SUFFIX,sagepub.com
 DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,sciencemag.org
