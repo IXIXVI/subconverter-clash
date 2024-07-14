@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,6pzfwf.com
 DOMAIN-SUFFIX,fluidplayer.com
+DOMAIN-SUFFIX,rn121.xyz
 
 # cloudflare
 DOMAIN-SUFFIX,cf-ipfs.com
