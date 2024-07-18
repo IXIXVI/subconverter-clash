@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,6pzfwf.com
 DOMAIN-SUFFIX,fluidplayer.com
 DOMAIN-SUFFIX,rn121.xyz
+DOMAIN-KEYWORD,byteeffecttos-g
+DOMAIN-KEYWORD,capcutapi
+DOMAIN-KEYWORD,lf16-capcut
 
 # cloudflare
 DOMAIN-SUFFIX,cf-ipfs.com
