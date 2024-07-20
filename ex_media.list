@@ -1,8 +1,8 @@
 # 国外媒体补充
-DOMAIN-SUFFIX,voachinese.com
-DOMAIN-SUFFIX,rfi.fr
-DOMAIN-SUFFIX,rfa.org
-DOMAIN-SUFFIX,nytimes.com
+DOMAIN-KEYWORD,voachinese
+DOMAIN-KEYWORD,rfi
+DOMAIN-KEYWORD,rfa
+DOMAIN-KEYWORD,nytimes
 DOMAIN-KEYWORD,chinadigitaltimes
-DOMAIN-SUFFIX,espn.com
-DOMAIN-SUFFIX,wsj.com
+DOMAIN-KEYWORD,espn
+DOMAIN-KEYWORD,wsj
