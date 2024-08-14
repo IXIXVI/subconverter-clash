@@ -13,8 +13,6 @@ DOMAIN-SUFFIX,nytimes.com
 DOMAIN-KEYWORD,chinadigitaltimes
 DOMAIN-KEYWORD,koofr
 DOMAIN-SUFFIX,www.google.com
-DOMAIN-SUFFIX,cableav.tv
-DOMAIN-SUFFIX,128100.xyz
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmail.com
@@ -26,6 +24,8 @@ DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,fluidplayer.com
 DOMAIN-SUFFIX,rn121.xyz
+DOMAIN-SUFFIX,cableav.tv
+DOMAIN-SUFFIX,128100.xyz
 DOMAIN-KEYWORD,byteeffecttos-g
 DOMAIN-KEYWORD,capcutapi
 DOMAIN-KEYWORD,lf16-capcut
