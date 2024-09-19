@@ -34,6 +34,7 @@ DOMAIN-KEYWORD,yahoo
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-KEYWORD,ipv6boy
 DOMAIN-SUFFIX,v2ex.co
+DOMAIN-SUFFIX,deepl.com
 
 # cloudflare
 DOMAIN-SUFFIX,cf-ipfs.com
