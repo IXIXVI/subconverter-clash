@@ -1,15 +1,13 @@
 PROCESS-NAME,aria2c
 PROCESS-NAME,zerotier-one
 DOMAIN-KEYWORD,yiningzhou
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,chuangzaoshi.com
 DOMAIN-KEYWORD,istoreos
-DOMAIN-SUFFIX,steamcontent.com
+# DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,sandstorm.game
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,mv616.xyz
-DOMAIN-SUFFIX,mihoyo.com
-DOMAIN-SUFFIX,caiyunapp.com
+# DOMAIN-SUFFIX,mihoyo.com
+# DOMAIN-SUFFIX,caiyunapp.com
 # DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,kejixun.com
-DOMAIN-SUFFIX,mographic
+# DOMAIN-SUFFIX,mographic
