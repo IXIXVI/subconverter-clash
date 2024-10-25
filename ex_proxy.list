@@ -41,6 +41,11 @@ DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+
 
 
 # NAME: Twitter
