@@ -1,31 +1,25 @@
+# NAME:OTHER
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 
-DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,unlock-music.dev
 DOMAIN-KEYWORD,singlelogin
-DOMAIN-KEYWORD,koofr
-DOMAIN-SUFFIX,www.google.com
-DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redditmail.com
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditstatic.com
-DOMAIN-SUFFIX,reddituploads.com
-DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
-DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+
 DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,fluidplayer.com
+
 DOMAIN-KEYWORD,byteeffecttos-g
 DOMAIN-KEYWORD,capcutapi
 DOMAIN-KEYWORD,lf16-capcut
+
 DOMAIN-KEYWORD,yahoo
 DOMAIN-SUFFIX,gravatar.com
 
-DOMAIN-SUFFIX,v2ex.co
+
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,elfproxy.com
 DOMAIN-SUFFIX,duolingo.com
+
+DOMAIN-SUFFIX,fluidplayer.com
 
 # Openai
 DOMAIN-SUFFIX,chatgpt.com
@@ -41,10 +35,25 @@ DOMAIN-KEYWORD,ikuuu
 DOMAIN-KEYWORD,ipv6boy
 DOMAIN-KEYWORD,flyingbird
 
-# NAME:Blog
+# NAME: Blog
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,limbopro.com
 
+# NAME: Reddit Forums
+DOMAIN-SUFFIX,v2ex.co
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reddituploads.com
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+
+
+# NAME: WEB_DISK
+DOMAIN-KEYWORD,koofr
+DOMAIN-SUFFIX,mypikpak.com
 
 # NAME: Twitter
 # AUTHOR: blackmatrix7
