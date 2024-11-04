@@ -5,12 +5,7 @@ DOMAIN-SUFFIX,espn.com
 DOMAIN-SUFFIX,limbopro.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,unlock-music.dev
-DOMAIN-KEYWORD,ikuuu
-DOMAIN-KEYWORD,flyingbird
 DOMAIN-KEYWORD,singlelogin
-DOMAIN-KEYWORD,pincong
-DOMAIN-SUFFIX,nytimes.com
-DOMAIN-KEYWORD,chinadigitaltimes
 DOMAIN-KEYWORD,koofr
 DOMAIN-SUFFIX,www.google.com
 DOMAIN-SUFFIX,redd.it
@@ -23,15 +18,12 @@ DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,fluidplayer.com
-DOMAIN-SUFFIX,rn121.xyz
-DOMAIN-SUFFIX,cableav.tv
-DOMAIN-SUFFIX,128100.xyz
 DOMAIN-KEYWORD,byteeffecttos-g
 DOMAIN-KEYWORD,capcutapi
 DOMAIN-KEYWORD,lf16-capcut
 DOMAIN-KEYWORD,yahoo
 DOMAIN-SUFFIX,gravatar.com
-DOMAIN-KEYWORD,ipv6boy
+
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,elfproxy.com
@@ -46,6 +38,10 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 
+# NAME: AIRPORT
+DOMAIN-KEYWORD,ikuuu
+DOMAIN-KEYWORD,ipv6boy
+DOMAIN-KEYWORD,flyingbird
 
 
 # NAME: Twitter
