@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,elfproxy.com
 DOMAIN-SUFFIX,duolingo.com
-
+DOMAIN-SUFFIX,api.ipify.org
 
 
 # Openai
