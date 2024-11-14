@@ -1,5 +1,9 @@
+# 请务必同时添加scholar_dir.list, 并将本规则置其后
+
+
 DOMAIN-KEYWORD,scholar.google
 DOMAIN-KEYWORD,annas-archive
+DOMAIN-SUFFIX,nenu.edu.cn
 DOMAIN-SUFFIX,arxiv.org
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org
