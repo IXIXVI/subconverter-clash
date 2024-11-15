@@ -1,6 +1,7 @@
 PROCESS-NAME,aria2c
 PROCESS-NAME,zerotier-one
 PROCESS-NAME,nginx
+PROCESS-NAME,python3.9
 DOMAIN-KEYWORD,yiningzhou
 DOMAIN-KEYWORD,istoreos
 DOMAIN-SUFFIX,glddns.com
