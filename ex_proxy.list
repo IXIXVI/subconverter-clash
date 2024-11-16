@@ -139,3 +139,21 @@ IP-CIDR6,2606:4700::/32,no-resolve
 IP-CIDR6,2803:f800::/32,no-resolve
 IP-CIDR6,2a06:98c0::/29,no-resolve
 IP-CIDR6,2c0f:f248::/32,no-resolve
+
+## General
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,kdw019.com
+
+## Japanese
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-KEYWORD,dmm
+
+## Gay
+DOMAIN-SUFFIX,me-gay.com
+DOMAIN-SUFFIX,sexgayjapan.com
+DOMAIN-SUFFIX,gaypornarchive.com
+DOMAIN-SUFFIX,www.gayporntube.tv
+DOMAIN-SUFFIX,darknight.blog
