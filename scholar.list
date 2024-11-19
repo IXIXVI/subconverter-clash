@@ -1,6 +1,6 @@
 # 请务必同时添加scholar_dir.list, 并将本规则置其后
 
-
+DOMAIN-SUFFIX,annualreviews.org
 DOMAIN-SUFFIX,cnbksy.com
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-KEYWORD,scholar.google
