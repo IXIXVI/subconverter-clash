@@ -12,3 +12,6 @@ DOMAIN-SUFFIX, browser.events.data.msn.cn
 DOMAIN-SUFFIX, msedge.api.cdp.microsoft.com
 DOMAIN-SUFFIX, web.vortex.data.microsoft.com
 DOMAIN-SUFFIX, pipe.aria.microsoft.com
+DOMAIN-SUFFIX, cn.mm.bing.net
+DOMAIN-SUFFIX, self.events.data.microsoft.com
+DOMAIN-SUFFIX, client.wns.windows.com
