@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,cxense.com
-DOMAIN-SUFFIX,lantern.io
-DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX, cxense.com
+DOMAIN-SUFFIX, lantern.io
+DOMAIN-SUFFIX, ipify.org
 DOMAIN-SUFFIX, c.msn.com
 DOMAIN-SUFFIX, ntp.msn.com
 DOMAIN-SUFFIX, ntp.msn.cn
@@ -8,3 +8,7 @@ DOMAIN-SUFFIX, assets.msn.cn
 DOMAIN-SUFFIX, api.msn.com
 DOMAIN-SUFFIX, browser.events.data.msn.com
 DOMAIN-SUFFIX, img-s-msn-com.akamaized.net
+DOMAIN-SUFFIX, browser.events.data.msn.cn
+DOMAIN-SUFFIX, msedge.api.cdp.microsoft.com
+DOMAIN-SUFFIX, web.vortex.data.microsoft.com
+DOMAIN-SUFFIX, pipe.aria.microsoft.com
