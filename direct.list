@@ -24,3 +24,23 @@ DOMAIN-SUFFIX,kejixun.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,rehi.org
 # DOMAIN-SUFFIX,mographic
+
+# NAME: GaoDe
+DOMAIN-SUFFIX,a-map.cn
+DOMAIN-SUFFIX,a-map.co
+DOMAIN-SUFFIX,a-map.link
+DOMAIN-SUFFIX,a-map.vip
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,amapauto.com
+DOMAIN-SUFFIX,anav.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,gaode.com
+
+# NAME: Mojitianqi
+DOMAIN-SUFFIX,airnut.com
+DOMAIN-SUFFIX,moji.com
+DOMAIN-SUFFIX,mojicb.com
+DOMAIN-SUFFIX,mojichina.com
+DOMAIN-SUFFIX,mojitest.com
+DOMAIN-SUFFIX,moweather.com
+DOMAIN-SUFFIX,xiaomo.cn
