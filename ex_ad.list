@@ -14,7 +14,6 @@ DOMAIN-SUFFIX, web.vortex.data.microsoft.com
 DOMAIN-SUFFIX, pipe.aria.microsoft.com
 DOMAIN-SUFFIX, cn.mm.bing.net
 DOMAIN-SUFFIX, client.wns.windows.com
-DOMAIN-SUFFIX, log.aliyuncs.com
 DOMAIN-SUFFIX, events.data.microsoft.com
 DOMAIN-SUFFIX, vortex.data.microsoft.com
 DOMAIN-SUFFIX, edge.activity.windows.com
@@ -28,3 +27,23 @@ DOMAIN-SUFFIX, g.msn.com
 DOMAIN-SUFFIX, msads.net
 DOMAIN-SUFFIX, msads.microsoft.com
 DOMAIN-SUFFIX, nexage.com
+
+DOMAIN-SUFFIX, log.aliyuncs.com
+DOMAIN-SUFFIX, ald.alicdn.com
+DOMAIN-SUFFIX, taotao.alicdn.com
+DOMAIN-SUFFIX, click.alimama.com
+
+DOMAIN-SUFFIX, log.p2.mi.com
+DOMAIN-SUFFIX, api.ad.xiaomi.com
+DOMAIN-SUFFIX, ad.mihome.com
+
+DOMAIN-SUFFIX, log.snssdk.com
+DOMAIN-SUFFIX, analytics.toutiao.com
+DOMAIN-SUFFIX, ad.toutiao.com
+DOMAIN-SUFFIX, ads.snssdk.com
+
+DOMAIN-SUFFIX, pingma.qq.com
+DOMAIN-SUFFIX, gdt.qq.com
+DOMAIN-SUFFIX, mqqad.com
+DOMAIN-SUFFIX, vmtrace.gtimg.com
+DOMAIN-SUFFIX, adash.tcdn.qq.com
