@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,vscode.download.prss.microsoft.com
+DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
