@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,rehi.org
 # DOMAIN-SUFFIX,mographic
 DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,ipw.cn
 
 # NAME: GaoDe
 DOMAIN-SUFFIX,a-map.cn
