@@ -8,8 +8,8 @@ PROCESS-NAME,zerotier-one
 PROCESS-NAME,nginx
 # PROCESS-NAME,python3.9
 PROCESS-NAME,tailscaled
-DOMAIN-KEYWORD,yiningzhou
-DOMAIN-KEYWORD,istoreos
+DOMAIN-SUFFIX,yiningzhou.cn
+# DOMAIN-KEYWORD,istoreos
 DOMAIN-SUFFIX,glddns.com
 DOMAIN-SUFFIX,gl-inet.cn
 # DOMAIN-SUFFIX,steamcontent.com
@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,kejixun.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,rehi.org
 # DOMAIN-SUFFIX,mographic
-DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-KEYWORD,test-ipv6
 DOMAIN-SUFFIX,ipw.cn
 
 # NAME: GaoDe
