@@ -6,7 +6,7 @@
 PROCESS-NAME,aria2c
 PROCESS-NAME,zerotier-one
 PROCESS-NAME,nginx
-PROCESS-NAME,python3.9
+# PROCESS-NAME,python3.9
 PROCESS-NAME,tailscaled
 DOMAIN-KEYWORD,yiningzhou
 DOMAIN-KEYWORD,istoreos
@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,kejixun.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,rehi.org
 # DOMAIN-SUFFIX,mographic
+DOMAIN-SUFFIX,test-ipv6.com
 
 # NAME: GaoDe
 DOMAIN-SUFFIX,a-map.cn
