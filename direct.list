@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,rehi.org
 # DOMAIN-SUFFIX,mographic
 DOMAIN-KEYWORD,test-ipv6
 DOMAIN-SUFFIX,ipw.cn
+DOMAIN-SUFFIX,mnapi.com
 
 # NAME: GaoDe
 DOMAIN-SUFFIX,a-map.cn
