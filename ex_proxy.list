@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,smtp.yandex.com
 
 
 # NAME:OTHER
-DOMAIN-SUFFIX,google.com
+# DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,unlock-music.dev
