@@ -6,16 +6,15 @@
 PROCESS-NAME,aria2c
 PROCESS-NAME,zerotier-one
 PROCESS-NAME,nginx
-# PROCESS-NAME,python3.9
+
 PROCESS-NAME,tailscaled
 DOMAIN-SUFFIX,yiningzhou.cn
-# DOMAIN-KEYWORD,istoreos
 DOMAIN-SUFFIX,glddns.com
 DOMAIN-SUFFIX,gl-inet.cn
 # DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,sandstorm.game
-DOMAIN-SUFFIX,edu.cn
-DOMAIN-SUFFIX,mv616.xyz
+# DOMAIN-SUFFIX,edu.cn
+# DOMAIN-SUFFIX,mv616.xyz
 # DOMAIN-SUFFIX,mihoyo.com
 # DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,ipify.org
